@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function Hero() {
   return (
     <section className="relative min-h-screen bg-charcoal overflow-hidden">
@@ -14,27 +16,25 @@ export default function Hero() {
             <div className="flex items-center gap-3">
               <div className="w-12 h-[2px] bg-terracotta" />
               <span className="font-[var(--font-body)] text-[10px] tracking-[0.35em] text-tan uppercase">
-                Faith. Purpose. Freedom.
+                Faith-Fueled CEO
               </span>
             </div>
 
             {/* Name */}
             <h1 className="font-[var(--font-heading)] text-5xl sm:text-6xl lg:text-7xl xl:text-8xl font-bold text-warm-cream leading-[0.95] tracking-tight">
-              Bible,
+              Emily
               <br />
-              <span className="text-terracotta">Business</span>
-              <br />
-              &amp; Balance
+              <span className="text-terracotta">Belt</span>
             </h1>
 
             {/* Subtitle roles */}
             <p className="font-[var(--font-body)] text-[11px] sm:text-xs tracking-[0.3em] text-tan/80 uppercase">
-              Author. Speaker. Podcaster. Business Owner.
+              Entrepreneur. Consultant. Speaker. Mom. CEO.
             </p>
 
             {/* Tagline */}
             <p className="font-[var(--font-accent)] text-xl sm:text-2xl text-warm-cream/70 leading-relaxed max-w-md italic">
-              Let&apos;s grow in faith, business, and balance &mdash; together.
+              Pray. Pour. Lead. Repeat.
             </p>
 
             {/* CTA Button */}
@@ -63,19 +63,16 @@ export default function Hero() {
             <div className="absolute -top-4 -right-4 w-32 h-32 border-t-2 border-r-2 border-tan/20 z-10" />
             <div className="absolute -bottom-4 -left-4 w-32 h-32 border-b-2 border-l-2 border-terracotta/30 z-10" />
 
-            {/* Photo placeholder */}
+            {/* Emily's headshot */}
             <div className="relative aspect-[3/4] lg:aspect-[4/5] overflow-hidden">
-              <div className="absolute inset-0 bg-gradient-to-br from-charcoal-light via-[#3d2e24] to-charcoal flex items-center justify-center">
-                {/* Placeholder visual - elegant silhouette style */}
-                <div className="text-center">
-                  <div className="w-48 h-48 mx-auto rounded-full bg-gradient-to-b from-tan/20 to-terracotta/10 flex items-center justify-center mb-6">
-                    <svg className="w-24 h-24 text-tan/30" fill="currentColor" viewBox="0 0 24 24">
-                      <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z" />
-                    </svg>
-                  </div>
-                  <p className="font-[var(--font-accent)] text-tan/40 text-lg italic">Your Photo Here</p>
-                </div>
-              </div>
+              <Image
+                src="/emily-headshot.jpg"
+                alt="Emily Belt — Faith-Fueled CEO, Entrepreneur, and Founder of Bible, Business & Balance"
+                fill
+                className="object-cover object-top"
+                priority
+                sizes="(max-width: 1024px) 100vw, 50vw"
+              />
               {/* Dramatic overlay gradient */}
               <div className="absolute inset-0 bg-gradient-to-t from-charcoal/60 via-transparent to-transparent" />
             </div>

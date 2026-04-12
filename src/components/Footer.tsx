@@ -73,7 +73,7 @@ export default function Footer() {
                 </a>
               </div>
               <p className="font-[var(--font-body)] text-xs text-warm-cream/30">
-                hello@biblebusinessbalance.com
+                msemily20@gmail.com
               </p>
             </div>
           </div>

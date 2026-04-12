@@ -8,7 +8,7 @@ export default function MissionSection() {
             backgroundImage: `url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E")`
           }} />
           <p className="relative font-[var(--font-heading)] text-lg sm:text-xl lg:text-2xl text-warm-cream text-center tracking-wide">
-            Word Grounded. Gospel-Driven. God-Glorifying.
+            Scripture &amp; Strategy. Obedience &amp; Execution. Faith &amp; Flow.
           </p>
         </div>
 
@@ -28,18 +28,19 @@ export default function MissionSection() {
           </h2>
 
           <p className="font-[var(--font-accent)] text-lg sm:text-xl text-charcoal/70 leading-relaxed mb-6">
-            This space exists for women who refuse to separate their faith from their
-            ambition. Women who know that God didn&apos;t give them a vision just to
-            let it collect dust. Whether you&apos;re building a business, writing a book,
-            launching a podcast, or simply trying to figure out what&apos;s next &mdash;
-            you belong here.
+            I don&apos;t just run my business &mdash; I lead it by faith. Before the
+            strategy, I seek Scripture. Before the marketing, I ask for wisdom.
+            God is not just Lord of my spiritual life. He&apos;s Lord over the
+            vision, revenue, and reach of my business too. This is what it means
+            to lead from the inside out.
           </p>
 
           <p className="font-[var(--font-accent)] text-lg sm:text-xl text-charcoal/70 leading-relaxed mb-10">
-            Bible, Business &amp; Balance is a movement rooted in scripture, fueled by
-            purpose, and designed for women who are ready to walk boldly in
-            everything God has called them to. No fluff. No formulas. Just faith
-            in action.
+            Bible, Business &amp; Balance exists for the woman who leads with
+            prayer, fuels her body with purpose, and refuses to sacrifice her
+            peace for productivity. Wellness is leadership. Balance isn&apos;t a
+            luxury &mdash; it&apos;s a strategy. And God doesn&apos;t bless
+            scattered hustle &mdash; He blesses ordered obedience.
           </p>
 
           <a

@@ -54,18 +54,19 @@ export default function PodcastSection() {
             </h2>
 
             <p className="font-[var(--font-accent)] text-lg text-warm-cream/60 leading-relaxed">
-              Each week, we dive into the conversations that matter most &mdash; the
-              intersection of faith and entrepreneurship, the tension between
-              ambition and surrender, and the daily pursuit of living a life that
-              honors God while building something meaningful.
+              Each week, we dive into what it really looks like to lead by faith
+              &mdash; the morning routines that protect your clarity, the business
+              strategies rooted in Scripture, the wellness rhythms that fuel your
+              leadership, and the honest conversations about what obedience costs
+              and what it produces.
             </p>
 
             <div className="flex flex-col gap-3 my-2">
               {[
-                "Raw, unfiltered conversations about faith & business",
-                "Interviews with women building Kingdom businesses",
-                "Practical strategies rooted in biblical principles",
-                "Real talk about the struggles nobody posts about",
+                "Scripture & strategy for the faith-fueled entrepreneur",
+                "Wellness as leadership — juicing, rest, and body stewardship",
+                "Building businesses with ordered obedience, not scattered hustle",
+                "Real talk from a CEO, mom, and woman figuring it out with God",
               ].map((item) => (
                 <div key={item} className="flex items-start gap-3">
                   <div className="w-1.5 h-1.5 rounded-full bg-terracotta mt-2 shrink-0" />

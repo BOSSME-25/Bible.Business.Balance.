@@ -16,18 +16,18 @@ export default function TestimonialSection() {
         </div>
 
         <blockquote className="font-[var(--font-accent)] text-2xl sm:text-3xl lg:text-4xl text-warm-cream/90 leading-relaxed italic -mt-12">
-          She didn&apos;t just teach me how to build a business &mdash; she taught
-          me how to build a life I don&apos;t need to escape from. Her words are
-          scripture-rooted, her heart is genuine, and her impact is undeniable.
+          Overflow isn&apos;t random. It&apos;s rooted. I don&apos;t just pray for
+          growth &mdash; I prepare for it. I build from what I know, and leave
+          space for what I&apos;ll learn while walking.
         </blockquote>
 
         <div className="mt-10 flex flex-col items-center gap-2">
           <div className="w-12 h-[1px] bg-terracotta" />
           <p className="font-[var(--font-body)] text-sm font-semibold tracking-[0.2em] text-warm-cream/70 uppercase mt-3">
-            Sarah M.
+            Emily Belt
           </p>
           <p className="font-[var(--font-body)] text-xs text-tan/40">
-            Entrepreneur &amp; Podcast Listener
+            Faith-Fueled CEO &amp; Founder, BOSS ME
           </p>
         </div>
       </div>

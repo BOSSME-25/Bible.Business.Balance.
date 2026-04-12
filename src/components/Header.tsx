@@ -62,7 +62,9 @@ export default function Header() {
             <div className="hidden md:flex items-center gap-3">
               {/* Instagram */}
               <a
-                href="#"
+                href="https://instagram.com/ladyem20"
+                target="_blank"
+                rel="noopener noreferrer"
                 aria-label="Instagram"
                 className="text-warm-cream/60 hover:text-terracotta transition-colors"
               >
@@ -82,8 +84,10 @@ export default function Header() {
               </a>
               {/* TikTok */}
               <a
-                href="#"
-                aria-label="TikTok"
+                href="https://youtube.com/@boss.me3"
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="YouTube"
                 className="text-warm-cream/60 hover:text-terracotta transition-colors"
               >
                 <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24">

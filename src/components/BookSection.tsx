@@ -36,7 +36,7 @@ export default function BookSection() {
                   </p>
                   <div className="w-8 h-[1px] bg-gold-muted mx-auto mt-8 mb-3" />
                   <p className="font-[var(--font-body)] text-[9px] tracking-[0.3em] text-tan/40 uppercase">
-                    Author Name
+                    Emily Belt
                   </p>
                 </div>
                 {/* Subtle texture on book */}
@@ -57,18 +57,18 @@ export default function BookSection() {
 
             <p className="font-[var(--font-accent)] text-lg text-charcoal/70 leading-relaxed">
               This isn&apos;t just another business book. It&apos;s a blueprint for
-              building a life and business that honors God without burning out,
-              selling out, or giving up on your calling.
+              building a life that honors God &mdash; as an entrepreneur, a mother,
+              and a woman who refuses to sacrifice her peace for productivity.
             </p>
 
             {/* Benefits */}
             <div className="flex flex-col gap-4 my-2">
               {[
-                "A faith-first framework for entrepreneurship",
-                "Practical tools for balancing ambition with rest",
-                "Real stories of women who built businesses God's way",
-                "Biblical strategies for overcoming fear and doubt",
-                "A 30-day action plan to launch with purpose",
+                "A faith-first framework for entrepreneurship and life",
+                "Practical tools for balancing ambition, family, and rest",
+                "Real stories from women navigating business and motherhood",
+                "Biblical strategies for anxiety, fear, and burnout",
+                "A 30-day action plan to launch with purpose and peace",
               ].map((benefit, i) => (
                 <div key={i} className="flex items-start gap-4">
                   <div className="w-6 h-6 rounded-full bg-terracotta/10 flex items-center justify-center shrink-0 mt-0.5">

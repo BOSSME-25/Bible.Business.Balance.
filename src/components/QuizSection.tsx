@@ -34,20 +34,20 @@ export default function QuizSection() {
             </div>
 
             <h2 className="font-[var(--font-heading)] text-3xl sm:text-4xl lg:text-5xl text-warm-cream leading-tight">
-              What&apos;s Your Biblical
+              What&apos;s Your
               <br />
-              <span className="text-terracotta">Leadership Style?</span>
+              <span className="text-terracotta">Boss Fuel Type?</span>
             </h2>
 
             <p className="font-[var(--font-accent)] text-lg text-warm-cream/60 leading-relaxed">
-              Are you a Deborah &mdash; bold and decisive? A Ruth &mdash; loyal and
-              steadfast? Or an Esther &mdash; strategic and courageous? Take this
-              quick assessment to discover how God has uniquely wired you to lead,
-              build, and serve in your business and beyond.
+              Are you leading from overflow or running on empty? Do you fuel
+              before the hustle or crash after it? Discover how you&apos;re wired
+              to lead &mdash; body, mind, and spirit &mdash; and what rhythms
+              will help you build well without burning out.
             </p>
 
             <p className="font-[var(--font-body)] text-sm text-tan/60">
-              Takes about 3 minutes. Completely free. Totally eye-opening.
+              Takes about 3 minutes. Completely free. Rooted in real strategy.
             </p>
 
             <a

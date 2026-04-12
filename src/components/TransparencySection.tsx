@@ -19,27 +19,28 @@ export default function TransparencySection() {
             </h2>
 
             <p className="font-[var(--font-accent)] text-lg text-charcoal/70 leading-relaxed">
-              Here&apos;s what I won&apos;t do: sugarcoat the journey. Entrepreneurship
-              is hard. Faith walks get messy. Balance? Some days it&apos;s a myth. But
-              I believe in showing up real &mdash; with the wins, the losses, and
-              everything in between.
+              I&apos;m not just trying to do more &mdash; I&apos;m trying to do it well,
+              with peace, power, and alignment. My wellness is the foundation of
+              my leadership. When I honor my temple, I honor my calling. When I
+              protect my peace, I lead with purpose. When I nourish my body, I
+              clear my mind.
             </p>
 
             <p className="font-[var(--font-accent)] text-lg text-charcoal/70 leading-relaxed">
-              When you&apos;re here, expect vulnerability. Expect truth. Expect someone
-              who&apos;s walking this road right alongside you &mdash; not pretending to
-              have it all figured out, but fully committed to figuring it out with
-              God&apos;s guidance.
+              This is more than self-care &mdash; this is Boss Fuel. It&apos;s praying,
+              stewarding, nourishing, and leading from a place of overflow, not
+              empty. As the CEO of my home and my business, I&apos;ve learned: if I
+              don&apos;t fuel well, I can&apos;t lead well. And I&apos;m not just
+              leading for me &mdash; I&apos;m leading for legacy.
             </p>
 
             {/* Decorative scripture reference */}
             <div className="mt-4 pl-6 border-l-2 border-terracotta/40">
               <p className="font-[var(--font-accent)] text-base italic text-charcoal/50">
-                &ldquo;She is clothed with strength and dignity; she can laugh at the
-                days to come.&rdquo;
+                &ldquo;The leaves of the tree are for the healing of the nations.&rdquo;
               </p>
               <p className="font-[var(--font-body)] text-[10px] tracking-[0.2em] text-gold-muted uppercase mt-2">
-                Proverbs 31:25
+                Revelation 22:2
               </p>
             </div>
           </div>
