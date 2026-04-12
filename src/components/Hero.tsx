@@ -66,8 +66,8 @@ export default function Hero() {
             {/* Emily's headshot */}
             <div className="relative aspect-[3/4] lg:aspect-[4/5] overflow-hidden">
               <Image
-                src="/emily-headshot.jpg"
-                alt="Emily Belt — Faith-Fueled CEO, Entrepreneur, and Founder of Bible, Business & Balance"
+                src="/emily-headshot.png"
+                alt="Emily Belt, Faith-Fueled CEO, Entrepreneur, and Founder of Bible, Business & Balance"
                 fill
                 className="object-cover object-top"
                 priority

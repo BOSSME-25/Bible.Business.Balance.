@@ -55,7 +55,7 @@ export default function PodcastSection() {
 
             <p className="font-[var(--font-accent)] text-lg text-warm-cream/60 leading-relaxed">
               Each week, we dive into what it really looks like to lead by faith
-              &mdash; the morning routines that protect your clarity, the business
+             ,the morning routines that protect your clarity, the business
               strategies rooted in Scripture, the wellness rhythms that fuel your
               leadership, and the honest conversations about what obedience costs
               and what it produces.
@@ -64,7 +64,7 @@ export default function PodcastSection() {
             <div className="flex flex-col gap-3 my-2">
               {[
                 "Scripture & strategy for the faith-fueled entrepreneur",
-                "Wellness as leadership — juicing, rest, and body stewardship",
+                "Wellness as leadership: juicing, rest, and body stewardship",
                 "Building businesses with ordered obedience, not scattered hustle",
                 "Real talk from a CEO, mom, and woman figuring it out with God",
               ].map((item) => (

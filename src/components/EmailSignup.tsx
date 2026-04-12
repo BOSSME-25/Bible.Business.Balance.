@@ -25,7 +25,7 @@ export default function EmailSignup() {
         </h2>
 
         <p className="font-[var(--font-accent)] text-lg text-warm-cream/80 leading-relaxed mb-4 max-w-xl mx-auto">
-          Get the free &ldquo;Boss Fuel Blueprint&rdquo; &mdash; my personal
+          Get the free &ldquo;Boss Fuel Blueprint&rdquo;,my personal
           framework for leading with prayer, plants, and purpose. Plus, weekly
           devotionals, business strategy, and wellness wisdom straight to your inbox.
         </p>

@@ -17,7 +17,7 @@ export default function TestimonialSection() {
 
         <blockquote className="font-[var(--font-accent)] text-2xl sm:text-3xl lg:text-4xl text-warm-cream/90 leading-relaxed italic -mt-12">
           Overflow isn&apos;t random. It&apos;s rooted. I don&apos;t just pray for
-          growth &mdash; I prepare for it. I build from what I know, and leave
+          growth,I prepare for it. I build from what I know, and leave
           space for what I&apos;ll learn while walking.
         </blockquote>
 
@@ -27,7 +27,7 @@ export default function TestimonialSection() {
             Emily Belt
           </p>
           <p className="font-[var(--font-body)] text-xs text-tan/40">
-            Faith-Fueled CEO &amp; Founder, BOSS ME
+            Faith-Fueled CEO &amp; Lead Consultant, BOSS ME
           </p>
         </div>
       </div>

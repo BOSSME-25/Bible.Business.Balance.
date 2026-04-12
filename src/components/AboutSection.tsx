@@ -9,7 +9,7 @@ export default function AboutSection() {
           <div className="relative">
             <div className="relative aspect-[3/4] overflow-hidden">
               <Image
-                src="/emily-headshot.jpg"
+                src="/emily-headshot.png"
                 alt="Emily Belt"
                 fill
                 className="object-cover object-top"
@@ -31,30 +31,30 @@ export default function AboutSection() {
             </div>
 
             <h2 className="font-[var(--font-heading)] text-3xl sm:text-4xl lg:text-5xl text-charcoal leading-tight">
-              Hi &mdash; I&apos;m
+              Hi, I&apos;m
               <br />
               <span className="text-terracotta">Emily.</span>
             </h2>
 
             <p className="font-[var(--font-accent)] text-lg text-charcoal/70 leading-relaxed">
               I&apos;m an operations executive with 14+ years in higher education,
-              the founder and CEO of Crown Heirs Hair Den &mdash; a full-service
-              salon I built from scratch to a 15-person team &mdash; and the lead
-              consultant behind BOSS ME, where I help entrepreneurs turn vision
-              into viable business.
+              the co-founder of Crown Heirs Hair Den, the founder and lead
+              consultant of BOSS ME, and the founder and CEO of OE Prints. I&apos;ve
+              spent my career building teams, scaling organizations, and helping
+              entrepreneurs turn vision into viable business.
             </p>
 
             <p className="font-[var(--font-accent)] text-lg text-charcoal/70 leading-relaxed">
               But titles only tell part of the story. I&apos;m a Faith-Fueled CEO.
               Before the strategy, I seek Scripture. Before the marketing, I ask
-              for wisdom. Before I hire, launch, post, or pivot &mdash; I pray.
+              for wisdom. Before I hire, launch, post, or pivot, I pray.
               Because my success isn&apos;t rooted in hustle. It&apos;s built on
               obedience.
             </p>
 
             <p className="font-[var(--font-accent)] text-lg text-charcoal/70 leading-relaxed">
               I started Bible, Business &amp; Balance because I needed a space
-              where faith governed my leadership &mdash; not just guided it. Where
+              where faith governed my leadership, not just guided it. Where
               wellness wasn&apos;t separate from work. Where being a mom and a CEO
               didn&apos;t mean choosing one over the other. If you&apos;re here,
               you probably needed that too. Welcome. You&apos;re right on time.
