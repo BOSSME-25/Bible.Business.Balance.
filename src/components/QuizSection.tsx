@@ -42,7 +42,7 @@ export default function QuizSection() {
             <p className="font-[var(--font-accent)] text-lg text-warm-cream/60 leading-relaxed">
               Are you leading from overflow or running on empty? Do you fuel
               before the hustle or crash after it? Discover how you&apos;re wired
-              to lead,body, mind, and spirit,and what rhythms
+              to lead. Body, mind, and spirit. And what rhythms
               will help you build well without burning out.
             </p>
 

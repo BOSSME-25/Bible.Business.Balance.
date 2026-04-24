@@ -28,7 +28,7 @@ export default function MissionSection() {
           </h2>
 
           <p className="font-[var(--font-accent)] text-lg sm:text-xl text-charcoal/70 leading-relaxed mb-6">
-            I don&apos;t just run my business,I lead it by faith. Before the
+            I don&apos;t just run my business, I lead it by faith. Before the
             strategy, I seek Scripture. Before the marketing, I ask for wisdom.
             God is not just Lord of my spiritual life. He&apos;s Lord over the
             vision, revenue, and reach of my business too. This is what it means
@@ -39,8 +39,8 @@ export default function MissionSection() {
             Bible, Business &amp; Balance exists for the woman who leads with
             prayer, fuels her body with purpose, and refuses to sacrifice her
             peace for productivity. Wellness is leadership. Balance isn&apos;t a
-            luxury,it&apos;s a strategy. And God doesn&apos;t bless
-            scattered hustle,He blesses ordered obedience.
+            luxury, it&apos;s a strategy. And God doesn&apos;t bless
+            scattered hustle. He blesses ordered obedience.
           </p>
 
           <a

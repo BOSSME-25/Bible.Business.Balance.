@@ -54,8 +54,8 @@ export default function PodcastSection() {
             </h2>
 
             <p className="font-[var(--font-accent)] text-lg text-warm-cream/60 leading-relaxed">
-              Each week, we dive into what it really looks like to lead by faith
-             ,the morning routines that protect your clarity, the business
+              Each week, we dive into what it really looks like to lead by faith:
+              the morning routines that protect your clarity, the business
               strategies rooted in Scripture, the wellness rhythms that fuel your
               leadership, and the honest conversations about what obedience costs
               and what it produces.

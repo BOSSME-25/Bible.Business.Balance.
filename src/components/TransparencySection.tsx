@@ -19,7 +19,7 @@ export default function TransparencySection() {
             </h2>
 
             <p className="font-[var(--font-accent)] text-lg text-charcoal/70 leading-relaxed">
-              I&apos;m not just trying to do more,I&apos;m trying to do it well,
+              I&apos;m not just trying to do more. I&apos;m trying to do it well,
               with peace, power, and alignment. My wellness is the foundation of
               my leadership. When I honor my temple, I honor my calling. When I
               protect my peace, I lead with purpose. When I nourish my body, I
@@ -27,11 +27,11 @@ export default function TransparencySection() {
             </p>
 
             <p className="font-[var(--font-accent)] text-lg text-charcoal/70 leading-relaxed">
-              This is more than self-care,this is Boss Fuel. It&apos;s praying,
+              This is more than self-care, it&apos;s Boss Fuel. It&apos;s praying,
               stewarding, nourishing, and leading from a place of overflow, not
               empty. As the CEO of my home and my business, I&apos;ve learned: if I
               don&apos;t fuel well, I can&apos;t lead well. And I&apos;m not just
-              leading for me,I&apos;m leading for legacy.
+              leading for me. I&apos;m leading for legacy.
             </p>
 
             {/* Decorative scripture reference */}

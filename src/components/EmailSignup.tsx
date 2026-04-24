@@ -6,7 +6,7 @@ export default function EmailSignup() {
   const [email, setEmail] = useState("");
 
   return (
-    <section id="contact" className="relative bg-terracotta py-20 lg:py-28 overflow-hidden">
+    <section id="contact" className="relative bg-terracotta py-24 sm:py-32 lg:py-40 overflow-hidden">
       {/* Texture */}
       <div className="absolute inset-0 opacity-10" style={{
         backgroundImage: `url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E")`
@@ -24,13 +24,12 @@ export default function EmailSignup() {
           Get Your Free Resource
         </h2>
 
-        <p className="font-[var(--font-accent)] text-lg text-warm-cream/80 leading-relaxed mb-4 max-w-xl mx-auto">
-          Get the free &ldquo;Boss Fuel Blueprint&rdquo;,my personal
-          framework for leading with prayer, plants, and purpose. Plus, weekly
-          devotionals, business strategy, and wellness wisdom straight to your inbox.
+        <p className="font-[var(--font-accent)] text-lg sm:text-xl text-warm-cream/90 leading-relaxed mb-6 max-w-xl mx-auto">
+          Get the free &ldquo;Boss Fuel Blueprint&rdquo;: my personal
+          framework for leading with prayer, plants, and purpose.
         </p>
 
-        <p className="font-[var(--font-body)] text-xs text-warm-cream/50 mb-8">
+        <p className="font-[var(--font-body)] text-xs tracking-wide text-warm-cream/60 mb-10">
           No spam. No fluff. Just real talk and real tools.
         </p>
 

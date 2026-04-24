@@ -57,7 +57,7 @@ export default function BookSection() {
 
             <p className="font-[var(--font-accent)] text-lg text-charcoal/70 leading-relaxed">
               This isn&apos;t just another business book. It&apos;s a blueprint for
-              building a life that honors God,as an entrepreneur, a mother,
+              building a life that honors God, as an entrepreneur, a mother,
               and a woman who refuses to sacrifice her peace for productivity.
             </p>
 
