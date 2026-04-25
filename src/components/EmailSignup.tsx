@@ -12,7 +12,7 @@ export default function EmailSignup() {
         backgroundImage: `url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E")`
       }} />
 
-      <div className="relative max-w-3xl mx-auto px-6 lg:px-10 text-center">
+      <div className="relative max-w-3xl mx-auto px-8 sm:px-10 lg:px-16 text-center">
         {/* Icon */}
         <div className="w-16 h-16 mx-auto bg-warm-cream/10 rounded-full flex items-center justify-center mb-8">
           <svg className="w-8 h-8 text-warm-cream" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>

@@ -10,8 +10,8 @@ const navLinks = [
 
 export default function Footer() {
   return (
-    <footer className="bg-charcoal pt-20 pb-8">
-      <div className="max-w-7xl mx-auto px-6 lg:px-10">
+    <footer className="bg-charcoal pt-24 sm:pt-28 pb-10">
+      <div className="max-w-7xl mx-auto px-8 sm:px-10 lg:px-16">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-16">
           {/* Brand column */}
           <div className="md:col-span-1">
