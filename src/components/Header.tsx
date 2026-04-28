@@ -54,6 +54,12 @@ export default function Header() {
                 {link.label}
               </a>
             ))}
+            <a
+              href="https://app.e320.app"
+              className="bg-terracotta text-warm-cream font-[var(--font-body)] text-[11px] font-semibold tracking-[0.2em] uppercase px-5 py-2.5 hover:bg-warm-cream hover:text-charcoal transition-colors duration-300"
+            >
+              Open the App
+            </a>
           </nav>
 
           {/* Social Icons + Hamburger */}
@@ -130,6 +136,13 @@ export default function Header() {
                 {link.label}
               </a>
             ))}
+            <a
+              href="https://app.e320.app"
+              onClick={() => setIsOpen(false)}
+              className="mt-2 bg-terracotta text-warm-cream font-[var(--font-body)] text-sm font-semibold tracking-[0.25em] uppercase px-5 py-3 text-center hover:bg-warm-cream hover:text-charcoal transition-colors"
+            >
+              Open the App
+            </a>
           </div>
           <div className="flex gap-4 mt-8 pt-6 border-t border-tan/10">
             <a href="https://instagram.com/ladyem20" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-warm-cream/60 hover:text-terracotta transition-colors">
